@@ -4,7 +4,7 @@
 ![BankBoy22's GitHub stats](https://github-readme-stats.vercel.app/api?username=BankBoy22&theme=neon_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjh7708)](https://solved.ac/hjh7708/)
 # 💪Skills
-![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+![C++](https://img.shields.io/badge/C++-#033963.svg?&style=for-the-badge&logo=C++&logoColor=#00599C)
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjh7708@gmail.com)](mailto:kimsh1691@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hjh7708@naver.com)](mailto:rlatngus1691@naver.com)
